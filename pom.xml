@@ -74,7 +74,7 @@
                         </goals>
                         <configuration>
                             <file>${basedir}/target/${project.artifactId}-${project.version}-${env}.zip</file>
-                            <url>http://url</url>
+                            <url>http://13.233.201.251:8081</url>
                             <repositoryId>jenkins-maven-uploads</repositoryId>
                             <packaging>zip</packaging>
                         </configuration>
